@@ -1,4 +1,3 @@
-// Home.tsx
 import { useState, useEffect } from 'react';
 import DrawerMenu from '../components/DrawerMenu';
 
